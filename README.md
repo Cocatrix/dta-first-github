@@ -11,5 +11,3 @@ Git repository used in my Diginamic program.
 | *Server functionalities :* | |
 | `git push` | sends the local branch to be merged on server branch (like GitHub one) |
 | `git pull` | sends the server branch to be merged on local branch |
-
-![Poney Master](http://blog-mastere2-rp-events.ecs-paris.com/wp-content/uploads/2014/04/poney-rose.jpg)
